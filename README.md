@@ -61,6 +61,5 @@ If you're interested in viewing the complete code, please contact me directly. D
  - El Guelta Mohamed-Saber
 
 ## 📧 Contact
-For questions or suggestions, feel free to reach out: <br>
+For questions or access to the repository, feel free to reach out: <br>
 - elhadifi.soukaina@gmail.com <br>
-- medsaberelguelta@gmail.com <br>
