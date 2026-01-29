@@ -1,4 +1,4 @@
-# 🚗 Moroccan Car Price Prediction
+# Moroccan Car Price Prediction
 
 ## Overview
 
