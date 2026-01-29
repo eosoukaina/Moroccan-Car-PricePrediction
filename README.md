@@ -24,8 +24,9 @@ If you're interested in viewing the complete code, please contact me directly. D
 - [Contact](#contact)
 
 ## Architecture
-
-<img width="4890" height="3090" alt="Image" src="https://github.com/user-attachments/assets/7aab567f-b7a1-400e-a0de-1a397c9220cf" />
+```
+Data Source (Avito) → Web Scraping → Data Storage → EDA & Preprocessing → ML Model → Web Application
+```
 
 This project follows a standard data engineering workflow:
 1. **Data Ingestion**: Automated web scraping using Selenium
